@@ -4,6 +4,14 @@ Live Hacking to regularne spotkania społeczności Hackerspace Trójmiasto na kt
 
 Spotykamy się na [Discord](https://discord.gg/GSTgYzU) i pracujemy wspólnie nad jednym problemem. Trochę jak [mob programming](https://en.wikipedia.org/wiki/Mob_programming), trochę jak wspólne układanie klocków LEGO, trochę jak praca, trochę jak dobra wspólna zabawa.
 
+## Kto może dołączyć?
+
+Zapraszamy osoby zainteresowane programowaniem, projektowaniem a także oglądaniem technolgii "od kuchni". Nie potrzebujesz specjalistycznej wiedzy by dołączyć. Natomiast jeśil jesteś ekspertem masz szansę podzielić się swoją wiedzą z innymi.
+
+## Dlaczego warto wziąć udział?
+
+Zobaczysz jak inni kodują, projektują i pracują. Podzielisz się swoją wiedza i umiejętnościami. Zdobędziesz zielony kwadracik na GitHub. Poznasz ciekawych ludzi.
+
 ## Pomysły na kolejne edycje
 
 Chcesz byśmy popracowali nad Twoim projektem lub pomysłem? Zrób Pull Request i dodaj swój pomysł poniżej 👇
