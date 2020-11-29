@@ -10,9 +10,13 @@ Zgłasza: @DoomHammer
 
 Pomysł: Obsługa referencji blokowych dla roam-to-garden
 
+===
+
 Zgłasza: @dreat
 
 Pomysł: rozszerzenia bota orpheus o zbieranie propozycji od uczestników (https://github.com/hs3city/orpheus/issues/2)
+
+===
 
 Zgłasza: @szymon-datalions
 
@@ -25,6 +29,8 @@ Pomysł: społeczny ogródek cyfrowy dla @hs3city (za: https://www.indiehackers.
 Temat: Formater notek zrozumiałych dla Jekyll
 
 Efekty: [Roam-to-garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden)
+
+===
 
 22.12.2020
 
