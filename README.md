@@ -6,17 +6,19 @@ Spotykamy się na [Discord](https://discord.gg/GSTgYzU) i pracujemy wspólnie na
 
 ## Pomysły na kolejne edycje
 
+Chcesz byśmy popracowali nad Twoim projektem lub pomysłem? Zrób Pull Request i dodaj swój pomysł poniżej 👇
+
 Zgłasza: @DoomHammer
 
 Pomysł: Obsługa referencji blokowych dla roam-to-garden
 
-===
+<hr>
 
 Zgłasza: @dreat
 
 Pomysł: rozszerzenia bota orpheus o zbieranie propozycji od uczestników (https://github.com/hs3city/orpheus/issues/2)
 
-===
+<hr>
 
 Zgłasza: @szymon-datalions
 
@@ -30,7 +32,7 @@ Temat: Formater notek zrozumiałych dla Jekyll
 
 Efekty: [Roam-to-garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-garden)
 
-===
+<hr>
 
 22.12.2020
 
