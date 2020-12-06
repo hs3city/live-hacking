@@ -58,7 +58,7 @@ Pomysł: przygotowanie nowych ciekawostek dla bota
 
 ## Poprzednie edycje
 
-15.12.2020
+15.11.2020
 
 Temat: Formater notek zrozumiałych dla Jekyll
 
@@ -66,7 +66,7 @@ Efekty: [Roam-to-garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-
 
 <hr>
 
-22.12.2020
+22.11.2020
 
 Temat: Budowa bota na Discord do obsługi Muzycznego Adwentu
 
