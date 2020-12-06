@@ -50,6 +50,12 @@ Zgłasza: @dreat
 
 Pomysł: rozwiązywanie zadań z Advent of Code
 
+<hr>
+
+Zgłasza: @usigna
+
+Pomysł: przygotowanie nowych ciekawostek dla bota
+
 ## Poprzednie edycje
 
 15.12.2020
