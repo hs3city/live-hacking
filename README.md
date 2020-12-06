@@ -32,6 +32,24 @@ Zgłasza: @szymon-datalions
 
 Pomysł: społeczny ogródek cyfrowy dla @hs3city (za: https://www.indiehackers.com/post/building-a-community-digital-garden-7e941d107c)
 
+<hr>
+
+Zgłasza: @malgorzataszopa
+
+Pomysł: bot na Discord który zapisuje notatki do cyfrowego ogródka
+
+<hr>
+
+Zgłasza: @usigna
+
+Pomysł: choinka i śnieg w CSS
+
+<hr>
+
+Zgłasza: @dreat
+
+Pomysł: rozwiązywanie zadań z Advent of Code
+
 ## Poprzednie edycje
 
 15.12.2020
@@ -47,3 +65,13 @@ Efekty: [Roam-to-garden](https://github.com/DoomHammer/roam-to-git/tree/roam-to-
 Temat: Budowa bota na Discord do obsługi Muzycznego Adwentu
 
 Efekty: [Orpheus](https://github.com/hs3city/orpheus)
+
+<hr>
+
+06.12.2020
+
+Temat: Społeczny ogródek cyfrowy dla @hs3city
+
+Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
+
+Efekty: 
