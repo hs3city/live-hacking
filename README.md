@@ -73,5 +73,3 @@ Efekty: [Orpheus](https://github.com/hs3city/orpheus)
 Temat: Społeczny ogródek cyfrowy dla @hs3city
 
 Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
-
-Efekty: 
