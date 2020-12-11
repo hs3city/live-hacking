@@ -56,6 +56,12 @@ Zgłasza: @usigna
 
 Pomysł: przygotowanie nowych ciekawostek dla bota
 
+<hr>
+
+Zgłasza: @Mateusz Bełczowski
+
+Pomysł: prosta analiza danych (np. Spotify) w Pythonie
+
 ## Poprzednie edycje
 
 15.11.2020
