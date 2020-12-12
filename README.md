@@ -62,6 +62,12 @@ Zgłasza: @Mateusz Bełczowski
 
 Pomysł: prosta analiza danych (np. Spotify) w Pythonie
 
+<hr>
+
+Zgłasza: @DoomHammer
+
+Pomysł: cyfrowy ogródek oparty na Jekyll Digital Garden Template zawierający dane z https://doomhammersupposeserroneously.tumblr.com/
+
 ## Poprzednie edycje
 
 15.11.2020
