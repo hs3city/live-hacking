@@ -91,3 +91,9 @@ Efekty: [Orpheus](https://github.com/hs3city/orpheus)
 Temat: Społeczny ogródek cyfrowy dla @hs3city
 
 Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
+
+20.12.2020
+
+Temat: Prosta analiza danych (np. Spotify) w Pythonie
+
+Efekty: Analiza danych z pliku + poszukiwania zewnętrznego API do przypisywania gatunku na podstawie artysty i tytułu https://github.com/MateuszBelczowski/analyzing_spotify_data
