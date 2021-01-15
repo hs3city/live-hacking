@@ -97,3 +97,10 @@ Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy nast�
 Temat: Prosta analiza danych (np. Spotify) w Pythonie
 
 Efekty: Analiza danych z pliku + poszukiwania zewnętrznego API do przypisywania gatunku na podstawie artysty i tytułu https://github.com/MateuszBelczowski/analyzing_spotify_data
+
+<hr>
+Temat: Stworzenie działającego mechanizmu w UNITY (gra typu FPS)
+
+Efekty: Mamy placeholder Gracza który się porusza i strzela, a nawet może coś zastrzelić.
+
+<hr>
