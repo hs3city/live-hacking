@@ -72,7 +72,7 @@ Pomysł: cyfrowy ogródek oparty na Jekyll Digital Garden Template zawierający 
 
 Zgłasza: @Dreat
 
-Pomysł: stronka do grania w brydża napisania w elixirze i z bez* JSa.
+Pomysł: stronka do grania w brydża napisania w elixirze i bez* JSa.
 
 <hr>
 
