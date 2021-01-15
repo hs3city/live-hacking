@@ -68,6 +68,18 @@ Zgłasza: @DoomHammer
 
 Pomysł: cyfrowy ogródek oparty na Jekyll Digital Garden Template zawierający dane z https://doomhammersupposeserroneously.tumblr.com/
 
+<hr>
+
+Zgłasza: @Dreat
+
+Pomysł: stronka do grania w brydża napisania w elixirze i bez* JSa.
+
+<hr>
+
+Zgłasza: @Dreat
+
+Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
+
 ## Poprzednie edycje
 
 15.11.2020
