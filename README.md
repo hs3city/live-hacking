@@ -92,6 +92,8 @@ Temat: Społeczny ogródek cyfrowy dla @hs3city
 
 Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
 
+<hr>
+
 20.12.2020
 
 Temat: Prosta analiza danych (np. Spotify) w Pythonie
