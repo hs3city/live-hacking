@@ -110,8 +110,19 @@ Temat: Społeczny ogródek cyfrowy dla @hs3city
 
 Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
 
+<hr>
+
 20.12.2020
 
 Temat: Prosta analiza danych (np. Spotify) w Pythonie
 
 Efekty: Analiza danych z pliku + poszukiwania zewnętrznego API do przypisywania gatunku na podstawie artysty i tytułu https://github.com/MateuszBelczowski/analyzing_spotify_data
+
+<hr>
+10.01.2021
+Prowadzący: https://github.com/MalgorzataSzopa
+
+Temat: Stworzenie działającego mechanizmu w UNITY (gra typu FPS)
+
+Efekty: Mamy placeholder Gracza który się porusza i strzela, a nawet może coś zastrzelić.
+<hr>
