@@ -80,6 +80,12 @@ Zgłasza: @Dreat
 
 Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
 
+<hr>
+
+Zgłasza: @Exef
+
+Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak? 
+
 ## Poprzednie edycje
 
 15.11.2020
