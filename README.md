@@ -126,3 +126,23 @@ Temat: Stworzenie działającego mechanizmu w UNITY (gra typu FPS)
 
 Efekty: Mamy placeholder Gracza który się porusza i strzela, a nawet może coś zastrzelić.
 <hr>
+
+17.01.2021
+Prowadzący: https://github.com/Dreat
+
+Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i LiveView.
+
+Efekty: Mamy rękę jednego gracza wyświetloną na ekranie, możliwość tworzenia pokoju i dołączania do niego i zalążek systemu licytacji.
+Repo: https://github.com/Dreat/brdg
+
+</hr>
+
+31.01.2021
+Prowadzący: https://github.com/Dreat
+
+Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i LiveView.
+
+Efekty: Moduł GameState, który pozwala na dodanie graczy, rozdanie kart, licytowanie.
+Repo: https://github.com/Dreat/brdg
+
+</hr>
