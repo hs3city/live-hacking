@@ -112,6 +112,14 @@ Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy nast�
 
 <hr>
 
+13.12.2020
+
+Temat: Społeczny ogródek cyfrowy dla @hs3city
+
+Efekty: Próba połączenia Reactowego digital-garden z frameworkiem TinaCMS. 
+
+<hr>
+
 20.12.2020
 
 Temat: Prosta analiza danych (np. Spotify) w Pythonie
