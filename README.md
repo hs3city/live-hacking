@@ -86,6 +86,12 @@ Zgłasza: @Exef
 
 Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak? 
 
+<hr>
+
+Zgłasza: @LeszekM
+
+Pomysł: Bot na Discorda do losowego rozmieszczenia osób na kanałach głosowych. Wykorzystywany np. przy wydarzeniu HS3 English Night!
+
 ## Poprzednie edycje
 
 15.11.2020
