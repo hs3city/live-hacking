@@ -92,6 +92,12 @@ Zgłasza: @LeszekM
 
 Pomysł: Bot na Discorda do losowego rozmieszczenia osób na kanałach głosowych. Wykorzystywany np. przy wydarzeniu HS3 English Night!
 
+<hr>
+
+Zgłasza: @DoomHammer
+
+Pomysł: Bot przypominający o wydarzeniach i robiący plan tygodnia
+
 ## Poprzednie edycje
 
 15.11.2020
