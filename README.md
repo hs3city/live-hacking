@@ -166,3 +166,11 @@ Efekty: Moduł GameState, który pozwala na dodanie graczy, rozdanie kart, licyt
 Repo: https://github.com/Dreat/brdg
 
 </hr>
+
+## Zaplanowane edycje
+
+21.03.2021
+
+Prowadzący: https://github.com/Dreat
+
+Temat: Automatyzacja tworzenia newslettera - Ruby + integracja z 3 serwisami.
