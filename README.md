@@ -169,11 +169,7 @@ Repo: https://github.com/Dreat/brdg
 
 ## Zaplanowane edycje
 
-13.03.2021
-
-Prowadzący Ijon Tichy/marszaukowska
-
-Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+=======
 
 14.03.2021
 
@@ -186,3 +182,10 @@ Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcj�
 Prowadzący: https://github.com/Dreat
 
 Temat: Automatyzacja tworzenia newslettera - Ruby + integracja z 3 serwisami.
+
+28.03.2021
+
+Prowadzący Ijon Tichy/marszaukowska
+
+Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+
