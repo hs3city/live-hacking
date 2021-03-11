@@ -84,7 +84,7 @@ Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co
 
 Zgłasza: @Exef
 
-Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak? 
+Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak?
 
 <hr>
 
@@ -128,7 +128,7 @@ Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy nast�
 
 Temat: Społeczny ogródek cyfrowy dla @hs3city
 
-Efekty: Próba połączenia Reactowego digital-garden z frameworkiem TinaCMS. 
+Efekty: Próba połączenia Reactowego digital-garden z frameworkiem TinaCMS.
 
 <hr>
 
@@ -168,6 +168,14 @@ Repo: https://github.com/Dreat/brdg
 </hr>
 
 ## Zaplanowane edycje
+
+=======
+
+14.03.2021
+
+Prowadzący Mateusz Bełczowski / nikisaku
+
+Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcję pod postem.
 
 21.03.2021
 
