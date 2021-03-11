@@ -169,6 +169,12 @@ Repo: https://github.com/Dreat/brdg
 
 ## Zaplanowane edycje
 
+13.03.2021
+
+Prowadzący Ijon Tichy/marszaukowska
+
+Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+
 21.03.2021
 
 Prowadzący: https://github.com/Dreat
