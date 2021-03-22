@@ -155,7 +155,7 @@ Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i 
 Efekty: Mamy rękę jednego gracza wyświetloną na ekranie, możliwość tworzenia pokoju i dołączania do niego i zalążek systemu licytacji.
 Repo: https://github.com/Dreat/brdg
 
-</hr>
+<hr>
 
 31.01.2021
 Prowadzący: https://github.com/Dreat
@@ -165,7 +165,17 @@ Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i 
 Efekty: Moduł GameState, który pozwala na dodanie graczy, rozdanie kart, licytowanie.
 Repo: https://github.com/Dreat/brdg
 
-</hr>
+<hr>
+
+21.03.2021
+
+Prowadzący: https://github.com/Dreat
+
+Temat: Automatyzacja tworzenia newslettera - Ruby + integracja z 3 serwisami.
+Efekty: Ściąganie losowych 7 kawałków z playlisty na Spotify, zdobycie linków do Youtube dzięki song.link, integracja z GetRevue, choć kapryśna i nie taka jak miaa być
+Repo: https://github.com/Dreat/apollo
+
+<hr>
 
 ## Zaplanowane edycje
 
@@ -176,12 +186,6 @@ Repo: https://github.com/Dreat/brdg
 Prowadzący Mateusz Bełczowski / nikisaku
 
 Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcję pod postem.
-
-21.03.2021
-
-Prowadzący: https://github.com/Dreat
-
-Temat: Automatyzacja tworzenia newslettera - Ruby + integracja z 3 serwisami.
 
 28.03.2021
 
