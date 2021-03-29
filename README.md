@@ -193,3 +193,8 @@ Prowadzący Ijon Tichy/marszaukowska
 
 Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
 
+01.04.2021
+
+Prowadzący Kacper Kacu
+
+Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
