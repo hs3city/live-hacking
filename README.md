@@ -198,3 +198,10 @@ Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw.
 Prowadzący Kacper Kacu
 
 Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
+
+17.04.2021
+
+Prowadzi: marszaukowska
+
+Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
+
