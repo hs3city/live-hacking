@@ -177,6 +177,15 @@ Repo: https://github.com/Dreat/apollo
 
 <hr>
 
+11.04.2021
+
+Prowadzący: dreat
+
+Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowadzącego, ale z chęcią potłumaczy/pokolaboruje z innymi :)
+Efekty: Stream na twitch.tv/hs3city, dreat zrozumiał jeden koncept, jakoś brzmiąca muzyka ;)
+Repo: nie ma, ale jest gist: https://gist.github.com/Dreat/0becd46616b79a652b3e56d5a98c920a
+
+<hr>
 ## Zaplanowane edycje
 
 =======
@@ -198,12 +207,6 @@ Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw.
 Prowadzący Kacper Kacu
 
 Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
-
-11.04.2021
-
-Prowadzi: dreat
-
-Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowadzącego, ale z chęcią potłumaczy/pokolaboruje z innymi :)
 
 18.04.2021
 
