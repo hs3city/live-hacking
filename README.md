@@ -199,7 +199,13 @@ Prowadzący Kacper Kacu
 
 Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
 
-17.04.2021
+11.04.2021
+
+Prowadzi: dreat
+
+Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowadzącego, ale z chęcią potłumaczy/pokolaboruje z innymi :)
+
+18.04.2021
 
 Prowadzi: marszaukowska
 
