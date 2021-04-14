@@ -56,6 +56,48 @@ Zgłasza: @usigna
 
 Pomysł: przygotowanie nowych ciekawostek dla bota
 
+<hr>
+
+Zgłasza: @Mateusz Bełczowski
+
+Pomysł: prosta analiza danych (np. Spotify) w Pythonie
+
+<hr>
+
+Zgłasza: @DoomHammer
+
+Pomysł: cyfrowy ogródek oparty na Jekyll Digital Garden Template zawierający dane z https://doomhammersupposeserroneously.tumblr.com/
+
+<hr>
+
+Zgłasza: @Dreat
+
+Pomysł: stronka do grania w brydża napisania w elixirze i bez* JSa.
+
+<hr>
+
+Zgłasza: @Dreat
+
+Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
+
+<hr>
+
+Zgłasza: @Exef
+
+Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak?
+
+<hr>
+
+Zgłasza: @LeszekM
+
+Pomysł: Bot na Discorda do losowego rozmieszczenia osób na kanałach głosowych. Wykorzystywany np. przy wydarzeniu HS3 English Night!
+
+<hr>
+
+Zgłasza: @DoomHammer
+
+Pomysł: Bot przypominający o wydarzeniach i robiący plan tygodnia
+
 ## Poprzednie edycje
 
 15.11.2020
@@ -80,8 +122,95 @@ Temat: Społeczny ogródek cyfrowy dla @hs3city
 
 Efekty: Namacalnych brak, ale jest pomysł jak zabrać się do tematu przy następnym spotkaniu
 
+<hr>
+
+13.12.2020
+
+Temat: Społeczny ogródek cyfrowy dla @hs3city
+
+Efekty: Próba połączenia Reactowego digital-garden z frameworkiem TinaCMS.
+
+<hr>
+
 20.12.2020
 
 Temat: Prosta analiza danych (np. Spotify) w Pythonie
 
 Efekty: Analiza danych z pliku + poszukiwania zewnętrznego API do przypisywania gatunku na podstawie artysty i tytułu https://github.com/MateuszBelczowski/analyzing_spotify_data
+
+<hr>
+10.01.2021
+Prowadzący: https://github.com/MalgorzataSzopa
+
+Temat: Stworzenie działającego mechanizmu w UNITY (gra typu FPS)
+
+Efekty: Mamy placeholder Gracza który się porusza i strzela, a nawet może coś zastrzelić.
+<hr>
+
+17.01.2021
+Prowadzący: https://github.com/Dreat
+
+Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i LiveView.
+
+Efekty: Mamy rękę jednego gracza wyświetloną na ekranie, możliwość tworzenia pokoju i dołączania do niego i zalążek systemu licytacji.
+Repo: https://github.com/Dreat/brdg
+
+<hr>
+
+31.01.2021
+Prowadzący: https://github.com/Dreat
+
+Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i LiveView.
+
+Efekty: Moduł GameState, który pozwala na dodanie graczy, rozdanie kart, licytowanie.
+Repo: https://github.com/Dreat/brdg
+
+<hr>
+
+21.03.2021
+
+Prowadzący: https://github.com/Dreat
+
+Temat: Automatyzacja tworzenia newslettera - Ruby + integracja z 3 serwisami.
+Efekty: Ściąganie losowych 7 kawałków z playlisty na Spotify, zdobycie linków do Youtube dzięki song.link, integracja z GetRevue, choć kapryśna i nie taka jak miaa być
+Repo: https://github.com/Dreat/apollo
+
+<hr>
+
+11.04.2021
+
+Prowadzący: dreat
+
+Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowadzącego, ale z chęcią potłumaczy/pokolaboruje z innymi :)
+Efekty: Stream na twitch.tv/hs3city, dreat zrozumiał jeden koncept, jakoś brzmiąca muzyka ;)
+Repo: nie ma, ale jest gist: https://gist.github.com/Dreat/0becd46616b79a652b3e56d5a98c920a
+
+<hr>
+## Zaplanowane edycje
+
+=======
+
+14.03.2021
+
+Prowadzący Mateusz Bełczowski / nikisaku
+
+Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcję pod postem.
+
+28.03.2021
+
+Prowadzący Ijon Tichy/marszaukowska
+
+Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+
+01.04.2021
+
+Prowadzący Kacper Kacu
+
+Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
+
+18.04.2021
+
+Prowadzi: marszaukowska
+
+Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
+
