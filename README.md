@@ -167,6 +167,15 @@ Repo: https://github.com/Dreat/brdg
 
 <hr>
 
+14.03.2021
+
+Prowadzący Mateusz Bełczowski / nikisaku
+
+Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcję pod postem.
+Efekty: https://github.com/nikisaku/orpheus/commit/30f2bd40ed000e564aed6f05654485961280b813
+
+<hr>
+
 21.03.2021
 
 Prowadzący: https://github.com/Dreat
@@ -189,12 +198,6 @@ Repo: nie ma, ale jest gist: https://gist.github.com/Dreat/0becd46616b79a652b3e5
 ## Zaplanowane edycje
 
 =======
-
-14.03.2021
-
-Prowadzący Mateusz Bełczowski / nikisaku
-
-Temat: Dodanie do Oprheusa przypisywania ról na podstawie kliknięcia w reakcję pod postem.
 
 28.03.2021
 
