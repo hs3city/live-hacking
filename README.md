@@ -80,13 +80,6 @@ Zgłasza: @Dreat
 
 Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
 
-<hr>
-
-Zgłasza: @Exef
-
-Pomysł: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów, które pozwala odpocząć na chwilę od waterfallowego podejścia do tworzenia przy tworzeniu ich na codzień. Co dokładnie będziemy robić? Multi-Sig Wallet? Zdecentralizowaną giełdę? Sprzedaż unikalnych odznak?
-
-<hr>
 
 Zgłasza: @LeszekM
 
@@ -97,6 +90,22 @@ Pomysł: Bot na Discorda do losowego rozmieszczenia osób na kanałach głosowyc
 Zgłasza: @DoomHammer
 
 Pomysł: Bot przypominający o wydarzeniach i robiący plan tygodnia
+
+<hr>
+
+Zgłasza: @Exef
+
+**Pomysł**: Proof of Attendance in Hackerspace Meeting
+
+**Opis**: Każdy chętny uczestnik spotkania może zgłosić się by otrzymać potwierdzenie uczestnictwa w spotkaniu np. pytając bot na Discordzie. Potwierdzenie uczestnictwa będzie na publicznym blockchainie i możliwe do przetransportowania na Ethereum. 
+
+**Propozycje spotkania**:
+- [ ] Przejrzenie Proof of Attendance Protocol - [POAP](https://github.com/poapxyz/poap) w celu szukania inspiracji
+- [ ] Opis popularnych side-chainów (np. [xDAI](https://www.xdaichain.com/)) i rozwiązań Layer 2 ([Optimism](https://optimism.io/), [zkSync](https://zksync.io/), [ImmutableX](https://www.immutable.com/), wybór rozwiązania i wydeployowanie prototypowego kontraktu na wybrany
+- [ ] Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
+- [ ] Przygotowanie mechanizmu tworzenia wizualnego potwierdzenie uczestnictwa w spotkaniu
+- [ ] Przygotowanie mechanizmu odbioru potwierdzenia przez Bota
+- [ ] Przygotowanie dApp wyświetlającej na jakich spotkaniach dany uczestnik był 
 
 ## Poprzednie edycje
 
@@ -154,6 +163,14 @@ Temat: Apka webowa do grania w brydża bez JS. Wykorzystujemy Elixir, Phoenix i 
 
 Efekty: Mamy rękę jednego gracza wyświetloną na ekranie, możliwość tworzenia pokoju i dołączania do niego i zalążek systemu licytacji.
 Repo: https://github.com/Dreat/brdg
+
+<hr>
+
+24.01.2021
+Prowadzący: @Exef
+
+Temat: Wstęp do tworzenia Smart-Contractów. Zabawa z [Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) - zestawem narzędzi do prototypowania kontraktów. 
+Efekty: Napisanie tokena ERC20 i jego automatycznego sprzedawcy.
 
 <hr>
 
