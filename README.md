@@ -100,9 +100,9 @@ Zgłasza: @Exef
 **Opis**: Każdy chętny uczestnik spotkania może zgłosić się by otrzymać potwierdzenie uczestnictwa w spotkaniu np. pytając bot na Discordzie. Potwierdzenie uczestnictwa będzie na publicznym blockchainie i możliwe do przetransportowania na Ethereum. 
 
 **Propozycje spotkania**:
+- [x] Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
 - [ ] Przejrzenie Proof of Attendance Protocol - [POAP](https://github.com/poapxyz/poap) w celu szukania inspiracji
 - [ ] Opis popularnych side-chainów (np. [xDAI](https://www.xdaichain.com/)) i rozwiązań Layer 2 ([Optimism](https://optimism.io/), [zkSync](https://zksync.io/), [ImmutableX](https://www.immutable.com/), wybór rozwiązania i wydeployowanie prototypowego kontraktu na wybrany
-- [ ] Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
 - [ ] Przygotowanie mechanizmu tworzenia wizualnego potwierdzenie uczestnictwa w spotkaniu
 - [ ] Przygotowanie mechanizmu odbioru potwierdzenia przez Bota
 - [ ] Przygotowanie dApp wyświetlającej na jakich spotkaniach dany uczestnik był 
@@ -233,4 +233,11 @@ Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
 Prowadzi: marszaukowska
 
 Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
+
+04.05.2021
+Prowaczący: Filip Małachowicz
+
+Temat: Proof of Attendance: Czym są NFT?
+
+Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
 
