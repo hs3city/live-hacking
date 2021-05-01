@@ -12,6 +12,39 @@ Zapraszamy osoby zainteresowane programowaniem, projektowaniem a także oglądan
 
 Zobaczysz jak inni kodują, projektują i pracują. Podzielisz się swoją wiedza i umiejętnościami. Zdobędziesz zielony kwadracik na GitHub. Poznasz ciekawych ludzi.
 
+## Zaplanowane edycje
+
+28.03.2021
+
+Prowadzący Ijon Tichy/marszaukowska
+
+Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+
+01.04.2021
+
+Prowadzący Kacper Kacu
+
+Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
+
+04.05.2021
+Prowaczący: Filip Małachowicz
+
+Temat: Proof of Attendance: Czym są NFT?
+
+Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
+
+9.05.2021, godz. 17:00
+
+Prowadzi: marszaukowska
+
+Temat: Flutter v.2: będziemy kodować!
+
+V.2 bo a) to moje drugie spotkanie o Flutterze, ale wasze może być pierwsze i spokojnie wszystko razem ogarniemy. 
+
+b) zrobiłam update do 2 wersji Fluttera :D
+
+Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
+
 ## Pomysły na kolejne edycje
 
 Chcesz byśmy popracowali nad Twoim projektem lub pomysłem? Zrób Pull Request i dodaj swój pomysł poniżej 👇
@@ -58,12 +91,6 @@ Pomysł: przygotowanie nowych ciekawostek dla bota
 
 <hr>
 
-Zgłasza: @Mateusz Bełczowski
-
-Pomysł: prosta analiza danych (np. Spotify) w Pythonie
-
-<hr>
-
 Zgłasza: @DoomHammer
 
 Pomysł: cyfrowy ogródek oparty na Jekyll Digital Garden Template zawierający dane z https://doomhammersupposeserroneously.tumblr.com/
@@ -75,11 +102,6 @@ Zgłasza: @Dreat
 Pomysł: stronka do grania w brydża napisania w elixirze i bez* JSa.
 
 <hr>
-
-Zgłasza: @Dreat
-
-Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
-
 
 Zgłasza: @LeszekM
 
@@ -218,39 +240,14 @@ Prowadzi: marszaukowska
 Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
 Efekty: Zapoznanie się z defaultową apką i małe ulepszenia do niej. Przegląd możliwościami Fluttera (Firebase, ML tookit) - jakie są już gotowe rozwiązania, żeby nie tworzyć samemu od zera. Zajrzeliśmy też do dokumentacji, codelabsów i cookbooków.
 
+## Zrealizowane pomysły
+
+Zgłasza: @Mateusz Bełczowski
+
+Pomysł: prosta analiza danych (np. Spotify) w Pythonie
+
 <hr>
-## Zaplanowane edycje
 
-=======
+Zgłasza: @Dreat
 
-28.03.2021
-
-Prowadzący Ijon Tichy/marszaukowska
-
-Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
-
-01.04.2021
-
-Prowadzący Kacper Kacu
-
-Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
-
-04.05.2021
-Prowaczący: Filip Małachowicz
-
-Temat: Proof of Attendance: Czym są NFT?
-
-Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
-
-9.05.2021, godz. 17:00
-
-Prowadzi: marszaukowska
-
-Temat: Flutter v.2: będziemy kodować!
-
-V.2 bo a) to moje drugie spotkanie o Flutterze, ale wasze może być pierwsze i spokojnie wszystko razem ogarniemy. 
-
-b) zrobiłam update do 2 wersji Fluttera :D
-
-Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
-
+Pomysł: Automat do tworzenia newslettera [VagrantVibes](https://www.getrevue.co/profile/vagrantvibes) plus tworzenia playlist do wygodnego sluchania.
