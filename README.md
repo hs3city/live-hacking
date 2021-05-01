@@ -211,6 +211,13 @@ Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowad
 Efekty: Stream na twitch.tv/hs3city, dreat zrozumiał jeden koncept, jakoś brzmiąca muzyka ;)
 Repo: nie ma, ale jest gist: https://gist.github.com/Dreat/0becd46616b79a652b3e56d5a98c920a
 
+18.04.2021
+
+Prowadzi: marszaukowska
+
+Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
+Efekty: Zapoznanie się z defaultową apką i małe ulepszenia do niej. Przegląd możliwościami Fluttera (Firebase, ML tookit) - jakie są już gotowe rozwiązania, żeby nie tworzyć samemu od zera. Zajrzeliśmy też do dokumentacji, codelabsów i cookbooków.
+
 <hr>
 ## Zaplanowane edycje
 
@@ -228,16 +235,22 @@ Prowadzący Kacper Kacu
 
 Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
 
-18.04.2021
-
-Prowadzi: marszaukowska
-
-Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
-
 04.05.2021
 Prowaczący: Filip Małachowicz
 
 Temat: Proof of Attendance: Czym są NFT?
 
 Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
+
+9.05.2021, godz. 17:00
+
+Prowadzi: marszaukowska
+
+Temat: Flutter v.2: będziemy kodować!
+
+V.2 bo a) to moje drugie spotkanie o Flutterze, ale wasze może być pierwsze i spokojnie wszystko razem ogarniemy. 
+
+b) zrobiłam update do 2 wersji Fluttera :D
+
+Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
 
