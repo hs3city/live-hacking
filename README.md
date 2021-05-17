@@ -45,6 +45,13 @@ b) zrobiłam update do 2 wersji Fluttera :D
 
 Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
 
+25.05.21, godz. 18:00
+
+Temat: RabbitMQ x JMS x Spring
+
+Będę dodawać kolejkę RabbitMQ do mojej appki do zbierania pieczątek lojalnościowych :P.
+Będzie dużo czytania dokumentacji, dodawania dockerów do testów integracyjnych, tworzenia architektury.
+
 ## Pomysły na kolejne edycje
 
 Chcesz byśmy popracowali nad Twoim projektem lub pomysłem? Zrób Pull Request i dodaj swój pomysł poniżej 👇
