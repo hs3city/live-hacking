@@ -14,43 +14,6 @@ Zobaczysz jak inni kodują, projektują i pracują. Podzielisz się swoją wiedz
 
 ## Zaplanowane edycje
 
-28.03.2021
-
-Prowadzący Ijon Tichy/marszaukowska
-
-Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
-
-01.04.2021
-
-Prowadzący Kacper Kacu
-
-Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
-
-04.05.2021
-Prowaczący: Filip Małachowicz
-
-Temat: Proof of Attendance: Czym są NFT?
-
-Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
-
-9.05.2021, godz. 17:00
-
-Prowadzi: marszaukowska
-
-Temat: Flutter v.2: będziemy kodować!
-
-V.2 bo a) to moje drugie spotkanie o Flutterze, ale wasze może być pierwsze i spokojnie wszystko razem ogarniemy. 
-
-b) zrobiłam update do 2 wersji Fluttera :D
-
-Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
-
-25.05.21, godz. 18:00
-
-Temat: RabbitMQ x JMS x Spring
-
-Będę dodawać kolejkę RabbitMQ do mojej appki do zbierania pieczątek lojalnościowych :P.
-Będzie dużo czytania dokumentacji, dodawania dockerów do testów integracyjnych, tworzenia architektury.
 
 ## Pomysły na kolejne edycje
 
@@ -232,6 +195,24 @@ Repo: https://github.com/Dreat/apollo
 
 <hr>
 
+28.03.2021
+
+Prowadzący Ijon Tichy/marszaukowska
+
+Temat: Zrób se pager, aparat i kalendarz - warsztat z raspberry pi, od podstaw. Coś zepsujemy, coś naprawimy - będzie fajnie ;)
+
+<hr>
+
+01.04.2021
+
+Prowadzący Kacper Kacu
+
+Temat: To nie prima aprilis! Live-edit ostatniego nagrania z wydarzenia
+
+Efekt: https://www.youtube.com/watch?v=Rfk6tzCj-Gk&t=128s
+
+<hr>
+
 11.04.2021
 
 Prowadzący: dreat
@@ -248,6 +229,38 @@ Prowadzi: marszaukowska
 
 Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
 Efekty: Zapoznanie się z defaultową apką i małe ulepszenia do niej. Przegląd możliwościami Fluttera (Firebase, ML tookit) - jakie są już gotowe rozwiązania, żeby nie tworzyć samemu od zera. Zajrzeliśmy też do dokumentacji, codelabsów i cookbooków.
+
+<hr>
+
+04.05.2021
+Prowaczący: Filip Małachowicz
+
+Temat: Proof of Attendance: Czym są NFT?
+
+Stworzenie i wydeployowanie prostego kontraktu Non-Fungible Token (NFT) potwierdzającego uczestnictwo w spotkaniu.
+
+<hr>
+
+9.05.2021, godz. 17:00
+
+Prowadzi: marszaukowska
+
+Temat: Flutter v.2: będziemy kodować!
+
+V.2 bo a) to moje drugie spotkanie o Flutterze, ale wasze może być pierwsze i spokojnie wszystko razem ogarniemy. 
+
+b) zrobiłam update do 2 wersji Fluttera :D
+
+Razem zaczniemy pisać prostą apkę, a przy okazji nauczymy się trochę flutterowych konceptów. Na luzie, możecie przygotować sobie android studio, VS Code lub co tam chcecie i tworzyć ze mną. Można też przyjść, popatrzeć i posłuchać.
+
+<hr>
+
+25.05.21, godz. 18:00
+
+Temat: RabbitMQ x JMS x Spring
+
+Będę dodawać kolejkę RabbitMQ do mojej appki do zbierania pieczątek lojalnościowych :P.
+Będzie dużo czytania dokumentacji, dodawania dockerów do testów integracyjnych, tworzenia architektury.
 
 <hr>
 
