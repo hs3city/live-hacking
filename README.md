@@ -240,12 +240,60 @@ Temat: Zabawa z SonicPi - tworzenie muzyki na żywo. Głównie ćwiczenie prowad
 Efekty: Stream na twitch.tv/hs3city, dreat zrozumiał jeden koncept, jakoś brzmiąca muzyka ;)
 Repo: nie ma, ale jest gist: https://gist.github.com/Dreat/0becd46616b79a652b3e56d5a98c920a
 
+<hr>
+
 18.04.2021
 
 Prowadzi: marszaukowska
 
 Temat: Jak szybko napisać apkę mobilną używając Fluttera? - wprowadzenie do technologii, przegląd możliwości i trochę kodowania :) 
 Efekty: Zapoznanie się z defaultową apką i małe ulepszenia do niej. Przegląd możliwościami Fluttera (Firebase, ML tookit) - jakie są już gotowe rozwiązania, żeby nie tworzyć samemu od zera. Zajrzeliśmy też do dokumentacji, codelabsów i cookbooków.
+
+<hr>
+
+20.07.2021
+
+Prowadzi: @Mirek
+
+Temat: Ninja Stopwatch
+
+Efekty: Mamy wyświetlacz i mamy działającyc przycisk. Pozostaje je połączyć.
+
+Repo: https://github.com/hs3city/ninja-stopwatch
+
+<hr>
+
+27.07.2021
+
+Prowadzi: @Mirek
+
+Temat: Ninja Stopwatch
+
+Efekty: Wszystko połączone (po hackersku) i działa jak należy
+
+Repo: https://github.com/hs3city/ninja-stopwatch
+
+<hr>
+
+11.08.2021
+
+Prowadzi: @DoomHammer
+
+Temat: Intergacja Discord <-> Arkusz z wyzwaniem
+
+Efekty: Filmy treningowe związane z wyzwaniem trafiają na Discord i bot reaguje na reakcje. Brakuje zapisu tych informacji do arkusza.
+
+Repo: https://github.com/hs3city/orpheus
+
+<hr>
+
+Prowadzi: @Jedrzej
+
+Temat: Intergacja Discord <-> Arkusz z wyzwaniem
+
+Efekty: ...
+
+Repo: https://github.com/hs3city/orpheus
 
 ## Zrealizowane pomysły
 
